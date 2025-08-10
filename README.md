@@ -43,7 +43,7 @@
 
 ### 📫 How to reach me
 - Email: **anujrajpoot042z@gmail.com**
-- GitHub: [github.com/anujrajpoot-dev](https://github.com/anujrajpoot-dev)
+- GitHub: [**github.com/anujrajpoot-dev**](https://github.com/anujrajpoot-dev)
 
 ---
 
