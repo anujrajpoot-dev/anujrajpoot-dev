@@ -67,11 +67,6 @@ REST API design · Scalable system design · MERN stack · Java backends · AI m
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujrajpoot-dev&theme=tokyonight" alt="profile details" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anujrajpoot-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=anujrajpoot-dev&theme=tokyonight&hide_border=true" alt="streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajpoot-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
-
 </div>
 
 <div align="center">
