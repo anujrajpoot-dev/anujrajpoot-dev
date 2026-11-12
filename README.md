@@ -56,10 +56,28 @@ REST API design · Scalable system design · MERN stack · Java backends · AI m
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anujrajpoot-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajpoot-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujrajpoot-dev&theme=tokyonight" alt="profile details" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anujrajpoot-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
+
+<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=anujrajpoot-dev&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajpoot-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anujrajpoot-dev&theme=tokyonight" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anujrajpoot-dev&theme=tokyonight" alt="most commit language" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 📫 Get in Touch
 
