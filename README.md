@@ -20,14 +20,14 @@ Alongside that, I build full-stack products with **Java, Python, Next.js and Sup
 
 ## 🌱 What I'm Learning
 
-- Building AI agents with **LangChain, LangGraph and LangSmith**
+- Building AI agents with **LangChain, LangGraph, LangSmith & CrewAI**
 - Deploying and scaling AI workloads reliably
 
 ## 🤝 Let's Collaborate
 
 I'm open to:
 - AI-driven projects and agent-based tools
-- Full-stack work (Java + MERN)
+- Full-stack work (Python + MERN)
 - Open-source contributions in AI and web development
 
 ## 🙋 Looking for Help With
@@ -37,7 +37,17 @@ I'm open to:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/https._anuj_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amuj Rajpoot Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/https._anuj_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anuj Rajpoot Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:anujrajpoot042z@gmail.com">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg"
+         alt="Email Anuj Rajpoot"
+         height="30"
+         width="40"
+         style="filter: brightness(0) invert(1);" />
+  </a>
 </p>
 
 ## 🧰 Tech Stack
@@ -76,11 +86,6 @@ REST API design · Scalable system design · MERN stack · Java backends · AI m
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-## 📫 Get in Touch
-
-- Email: anujrajpoot042z@gmail.com
-- GitHub: [@anujrajpoot-dev](https://github.com/anujrajpoot-dev)
 
 ---
 
