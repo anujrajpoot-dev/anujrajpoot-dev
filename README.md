@@ -1,64 +1,71 @@
-# Hi there 👋, I'm Anuj Rajpoot
+<h1 align="center">Hi, I'm Anuj Rajpoot 👋</h1>
 
-🚀 **Java Developer | Full Stack Developer | MERN Stack Specialist**  
-💡 Passionate about crafting high-performance, scalable applications and building AI-driven solutions.
+<p align="center">
+  Full Stack Developer building AI-powered products that work inside the tools people already use.
+</p>
 
----
-
-### 🔭 I’m currently working on
-- **[TrueSyncAI](https://github.com/TrueSync-AI)** – My startup focused on delivering **custom AI models** tailored to specific business needs.
-- Full-stack applications with **Java**, **Spring Boot**, and **MERN Stack**.
-- AI integrations and automation tools.
-
----
-
-### 🌱 I’m currently learning
-- Advanced **Spring Boot Microservices**.
-- Cloud deployment with **AWS** & **Docker/Kubernetes**.
-- Fine-tuning AI models for industry-specific use cases.
+<p align="center">
+  <a href="https://augmentixai.vercel.app/"><img src="https://img.shields.io/badge/AugmentixAI-Founder-6C47FF?style=for-the-badge" /></a>
+  <a href="mailto:anujrajpoot042z@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/anujrajpoot-dev"><img src="https://img.shields.io/github/followers/anujrajpoot-dev?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-### 👯 I’m looking to collaborate on
-- **AI-based projects**.
-- **Full Stack Development** (Java + MERN Stack).
-- Open-source contributions in AI & web development.
+## 🚀 What I'm Building
+
+**[AugmentixAI](https://augmentixai.vercel.app/)**: an AI assistant that lives inside your existing apps instead of next to them. Ask for what you need in one place, and it gets done across the tools you already use.
+
+Alongside that, I build full-stack products with **Java, Python, Next.js and Supabase**, with a focus on AI integrations and automation.
+
+## 🌱 What I'm Learning
+
+- Building AI agents with **LangChain, LangGraph and LangSmith**
+- Deploying and scaling AI workloads reliably
+
+## 🤝 Let's Collaborate
+
+I'm open to:
+- AI-driven projects and agent-based tools
+- Full-stack work (Java + MERN)
+- Open-source contributions in AI and web development
+
+## 🙋 Looking for Help With
+
+- Scaling AI model deployment
+- Building robust CI/CD pipelines
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 💬 Ask Me About
+
+REST API design · Scalable system design · MERN stack · Java backends · AI model fine-tuning
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anujrajpoot-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrajpoot-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📫 Get in Touch
+
+- Email: anujrajpoot042z@gmail.com
+- GitHub: [@anujrajpoot-dev](https://github.com/anujrajpoot-dev)
 
 ---
 
-### 🤔 I’m looking for help with
-- Scaling AI model deployment.
-- Building robust CI/CD pipelines.
-
----
-
-### 💬 Ask me about
-- **Java Development**
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- **AI Model Fine-Tuning**
-- **REST API Development**
-- **Scalable System Design**
-
----
-
-### 📫 How to reach me
-- Email: **anujrajpoot042z@gmail.com**
-- GitHub: [**github.com/anujrajpoot-dev**](https://github.com/anujrajpoot-dev)
-
----
-
-### ⚡ Fun fact
-When I’m not coding, I’m probably **exploring AI innovations** or working on ideas to make tech smarter for everyone.
-
----
-
-💻 **Tech Stack & Tools:**
-- **Languages:** Java, JavaScript, Python
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS
-- **Backend:** Spring Boot, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **DevOps:** Docker, GitHub Actions
-- **AI/ML:** TensorFlow, Hugging Face, Custom Model Fine-Tuning
-
----
-⭐ From [Anuj Rajpoot](https://github.com/anujrajpoot-dev)
+<p align="center"><i>Making tech smarter, one useful tool at a time. ⚡</i></p>
